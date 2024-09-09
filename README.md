@@ -12,7 +12,8 @@ My work is dedicated to advancing the understanding and application of Testing i
 The principles and methodologies employed in software testing are, in fact, universally applicable. Any subject, process, or system can be rigorously scrutinized using these techniques. 
 In this polarized world with information being thrown at us from all angles, the need for effective testing has never been more critical.
 
-Seeking a skilled tester for your project? Or just want to have a chat about testing? Contact me @ https://alexandercarlsson.com/contact/
+Seeking a skilled tester for your project? Or just want to have a chat about testing? 
+  - Contact me @ https://alexandercarlsson.com/contact/
 
 **At the moment:**
 
