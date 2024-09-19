@@ -1,4 +1,4 @@
-## Hi there 👋
+##
 
 My name is Alexander, as a tester, I am trained in the Context-Driven School. That means I focus on honing my skills and understanding the product as a solution provided to a customer. 
 I came to testing in a non-traditional way. My background is in running businesses. I ran a restaurant and a spa (at the same time) before the financial crisis hit my home country of Iceland in 2008.
