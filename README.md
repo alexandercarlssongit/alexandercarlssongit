@@ -1,4 +1,4 @@
-##
+## Hello everyone!
 
 My name is Alexander, as a tester, I am trained in the Context-Driven School. That means I focus on honing my skills and understanding the product as a solution provided to a customer. 
 I came to testing in a non-traditional way. My background is in running businesses. I ran a restaurant and a spa (at the same time) before the financial crisis hit my home country of Iceland in 2008.
@@ -13,7 +13,11 @@ The principles and methodologies employed in software testing are, in fact, univ
 In this polarized world with information being thrown at us from all angles, the need for effective testing has never been more critical.
 
 Seeking a skilled tester for your project? Or just want to have a chat about testing? 
-  - Contact me @ https://alexandercarlsson.com/contact/
+  - Contact me @ 
+    [info@alexandercarlsson.com](info@alexandercarlsson.com) or my [LinkedIn Profile](https://www.linkedin.com/in/alexanderbcarlsson/) 
+
+
+
 
 **At the moment:**
 
